@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viniciusramon
-- 👀 I’m interested in AI, C++, Java, Python, VHDL and every language.
+- 👀 I’m interested in AI, C++, Java, Python, VHDL and any sort of programming language.
 - 🌱 I’m currently learning Python and AI.
 - 💞️ I’m looking to collaborate on any sort of project if I may help.
 - 📫 How to reach me ...
